@@ -3,3 +3,11 @@ livekit-plugins-openai
 livekit-plugins-silero
 python-dotenv 
 flask
+mistralai
+notion-Client
+streamlit
+streamlit-rec
+python-dotenv
+pydub
+groq
+
