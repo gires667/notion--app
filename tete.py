@@ -117,7 +117,7 @@ def write_text_to_page(text_for_notion):
 
 # === STREAMLIT UI ===
 # === STREAMLIT UI ===
-st.title("📝 Mise à jour automatique d'un rapport Notion à partir d'un audio")
+st.title("📝 TALK PLAN AI")
 st.markdown("Enregistre ta voix, et mets automatiquement à jour le contenu dans Notion.")
 
 wav_audio_data = sar.audiorecorder("Clique pour enregistrer", "Clique pour arrêter")
